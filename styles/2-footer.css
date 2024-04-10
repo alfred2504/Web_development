@@ -1,0 +1,10 @@
+footer{
+    background: yellow;
+    color: #0f0;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    /*horizontal align */
+    position: fixed;
+    bottom: 0;
+}
